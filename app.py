@@ -6,7 +6,7 @@ st.title("📊 MNQ 自動交易監控中心")
 
 # --- 關鍵：請在這裡填入你的 Ngrok 網址 ---
 # 注意：網址結尾一定要加上 /command
-NGROK_URL = "https://d75a-59-124-228-172.ngrok-free.app/command" 
+NGROK_URL = "https://dustin-loath-shemeka.ngrok-free.dev/command" 
 
 # 模擬顯示數據
 col1, col2, col3 = st.columns(3)
